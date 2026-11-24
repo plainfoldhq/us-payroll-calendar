@@ -1,0 +1,21 @@
+schedule_id,frequency,description
+weekly_mon,weekly,Every Monday
+weekly_tue,weekly,Every Tuesday
+weekly_wed,weekly,Every Wednesday
+weekly_thu,weekly,Every Thursday
+weekly_fri,weekly,Every Friday
+biweekly_mon_a,biweekly,"Every other Monday, series containing 2026-01-05"
+biweekly_mon_b,biweekly,"Every other Monday, series containing 2026-01-12"
+biweekly_tue_a,biweekly,"Every other Tuesday, series containing 2026-01-06"
+biweekly_tue_b,biweekly,"Every other Tuesday, series containing 2026-01-13"
+biweekly_wed_a,biweekly,"Every other Wednesday, series containing 2026-01-07"
+biweekly_wed_b,biweekly,"Every other Wednesday, series containing 2026-01-14"
+biweekly_thu_a,biweekly,"Every other Thursday, series containing 2026-01-01"
+biweekly_thu_b,biweekly,"Every other Thursday, series containing 2026-01-08"
+biweekly_fri_a,biweekly,"Every other Friday, series containing 2026-01-02"
+biweekly_fri_b,biweekly,"Every other Friday, series containing 2026-01-09"
+semimonthly_15_last,semimonthly,The 15th and the last day of each month
+semimonthly_1_15,semimonthly,The 1st and the 15th of each month
+monthly_last,monthly,The last day of each month
+monthly_1,monthly,The 1st of each month
+monthly_15,monthly,The 15th of each month
