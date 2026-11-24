@@ -33,7 +33,7 @@ def iso(q):
 class Data(unittest.TestCase):
     def test_pay_dates(self):
         rs = rows("pay_dates_2026_2028.csv")
-        self.assertEqual(len(rs), 1816)
+        self.assertEqual(len(rs), 1820)
         for r in rs:
             q = qd(r["nominal_date"])
             pre = CAL.adjust(q, ql.Preceding)

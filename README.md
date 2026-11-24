@@ -8,7 +8,7 @@ Browse by year: [2026](https://plainfoldhq.github.io/payroll-calendar/2026/), [2
 
 | File | Rows | Contents |
 |---|---|---|
-| `data/pay_dates_2026_2028.csv` | 1,816 | schedule_id, frequency, nominal_date, nominal_weekday, is_banking_day, pay_date_preceding (previous banking day, the usual rule), pay_date_following (next banking day), funding_date_2bd (2 banking days before pay_date_preceding), moved_reason (`weekend` when the nominal date is a Saturday or Sunday, otherwise the holiday name) |
+| `data/pay_dates_2026_2028.csv` | 1,820 | nominal dates 2026-2028, plus the 4 rows with a nominal date in early 2029 that are paid in December 2028. Columns: schedule_id, frequency, nominal_date, nominal_weekday, is_banking_day, pay_date_preceding (previous banking day, the common rule), pay_date_following (next banking day), funding_date_2bd (2 banking days before pay_date_preceding), moved_reason (`weekend` when the nominal date is a Saturday or Sunday, otherwise the holiday name) |
 | `data/pay_periods_per_year_2020_2035.csv` | 320 | paydays per schedule per calendar year, counted by the date pay is made, under both rules |
 | `data/bank_holidays_2026_2028.csv` | 28 | Federal Reserve Bank holidays (weekday dates as observed) |
 | `data/schedules.csv` | 20 | the schedules |
