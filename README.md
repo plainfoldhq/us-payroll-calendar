@@ -36,7 +36,7 @@ The funding date is a common ACH lead time, not your bank's or provider's cutoff
 
 ## Full pack
 
-[US Payroll Calendars 2000-2050](https://buy.polar.sh/polar_cl_n5pnBfxQOHbaQOAPhQ8qJxOuB9RtOV4uw58940sPTHl) ($15): the same 20 schedules for every year 2000-2050 (30,894 pay dates), paydays per year 2001-2049, Federal Reserve holidays 2000-2050, SQLite, a PostgreSQL loader, 20 .ics calendar files and `paydates.py` (pay dates and banking-day math, Python standard library). Also in [All-Access](https://buy.polar.sh/polar_cl_xydfuofU72fdp6xSOHFtihAuniUFagYOwR9zf2M03Gl) ($49/year, every Plainfold data pack).
+[US Payroll Calendars 2000-2050](https://buy.polar.sh/polar_cl_n5pnBfxQOHbaQOAPhQ8qJxOuB9RtOV4uw58940sPTHl?utm_source=github&utm_medium=readme&utm_campaign=T&utm_content=us-payroll-calendar) ($15): the same 20 schedules for every year 2000-2050 (30,894 pay dates), paydays per year 2001-2049, Federal Reserve holidays 2000-2050, SQLite, a PostgreSQL loader, 20 .ics calendar files and `paydates.py` (pay dates and banking-day math, Python standard library). Also in [All-Access](https://buy.polar.sh/polar_cl_xydfuofU72fdp6xSOHFtihAuniUFagYOwR9zf2M03Gl?utm_source=github&utm_medium=readme&utm_campaign=ALLACCESS&utm_content=us-payroll-calendar) ($49/year, every Plainfold data pack).
 
 More free calendars: US business days and NYSE holidays [us-federal-calendar](https://github.com/plainfoldhq/us-federal-calendar) (`pip install usbizdays`), [date-dimension](https://github.com/plainfoldhq/date-dimension), [fx-settlement-holidays](https://github.com/plainfoldhq/fx-settlement-holidays).
 
