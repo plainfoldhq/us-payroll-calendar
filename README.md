@@ -40,6 +40,8 @@ The funding date is a common ACH lead time, not your bank's or provider's cutoff
 
 More free calendars: US business days and NYSE holidays [us-federal-calendar](https://github.com/plainfoldhq/us-federal-calendar) (`pip install usbizdays`), [date-dimension](https://github.com/plainfoldhq/date-dimension), [fx-settlement-holidays](https://github.com/plainfoldhq/fx-settlement-holidays).
 
+Keep a company holiday list in a repo? The free [holiday-drift-check](https://github.com/plainfoldhq/holiday-drift-check) GitHub Action checks a YAML/JSON/CSV holiday file against US federal holidays (2026-2028) and flags missing holidays, weekend dates that should be the observed weekday, and a next year not filled in yet.
+
 ## License
 
 Data in `data/`: CC0 1.0 (public domain). Tests: MIT. See LICENSE.
