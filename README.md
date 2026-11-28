@@ -4,6 +4,10 @@ Free CSV of US pay dates for 20 common payroll schedules with nominal dates in 2
 
 Browse by year: [2026](https://plainfoldhq.github.io/payroll-calendar/2026/), [2027](https://plainfoldhq.github.io/payroll-calendar/2027/), [2028](https://plainfoldhq.github.io/payroll-calendar/2028/), and [years with 27 pay periods](https://plainfoldhq.github.io/27-pay-periods/).
 
+## Guide
+
+- [Payroll pay dates and pay periods from CSV in Python: holiday moves, 27-pay-period years, three-paycheck months](https://github.com/plainfoldhq/us-payroll-calendar/blob/main/docs/payroll-calendar-csv-python.md)
+
 ## Files
 
 | File | Rows | Contents |
